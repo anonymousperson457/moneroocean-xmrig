@@ -173,8 +173,8 @@
         {
             "algo": null,
             "coin": null,
-            "url": "us-east01.miningrigrentals.com:3333",
-            "user": "Anonymous457.349820",
+            "url": "eu1.solopool.org:8010",
+            "user": "453xdSmLFjcNDEWWTCHsptTMXHRBNf3ezHTf2mRQmvo2bgJxEtJafaNUFBTBau2yt7WJbWaFSpbYLAi9RobRzQUD97s9je1.Miner",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
